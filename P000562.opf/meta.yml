@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS17366
   title: རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གཟུངས་དང་ཆ་གསུམ།
-  volume: ''
+  volume:
+    f0946dfec3574baf9db9412a7561e0f1:
+      image_group_id: I8LS17374
+      title: Volume 1 of rgyal mtshan rtse mo'i dpung rgyan gzungs dang cha gsum/
+      volume_number: 1
+      total_pages: 454
   author: ''
+ebook_metadata:
+  title: རྒྱལ་མཚན་རྩེ་མོའི་དཔུང་རྒྱན་གཟུངས་དང་ཆ་གསུམ།
+  author: ''
+  sku: P000562
+  cover: cover.jpg
+  layers:
+  - pagination
